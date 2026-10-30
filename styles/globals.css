@@ -1,4 +1,16 @@
-/* Глобальные стили для проекта, их можно дополнять и менять по желанию */
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/IBMPlexMono-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/IBMPlexMono-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
 
 *,
 *::before,
